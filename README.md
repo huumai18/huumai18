@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huumai18&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huumai18&theme=dracula&layout=compact" alt="Stats" align="center" />
-
-
---->
